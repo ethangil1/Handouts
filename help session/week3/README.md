@@ -19,5 +19,5 @@ This section focuses on methods, their purpose. Most of it should be explained
 via coding problems
 
 For this course, we are teaching that *every* method they write, should be tested!
-The tests should be fun before writing other methods, which often means setting up
+The tests should be run before writing other methods, which often means setting up
 code to run tests first. 
